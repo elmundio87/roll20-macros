@@ -1,0 +1,17 @@
+# Ability modifiers
+var-ability-athletics
+var-ability-initiative
+var-ability-perception
+
+# Stat modifiers
+var-stat-cha
+var-stat-con
+var-stat-dex
+var-stat-int
+var-stat-str
+var-stat-wis
+
+# Weapon stats
+var-weapon1-dmg
+var-weapon1-type
+var-weapon1-hit
