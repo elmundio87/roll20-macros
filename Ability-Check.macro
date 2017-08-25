@@ -1,0 +1,10 @@
+/roll 1d20 ?{Ability|
+STR,#var-stat-str + ?{Modifier&#124;0&#125; Strength Check|
+DEX,#var-stat-dex + ?{Modifier&#124;0&#125; Dexterity Check|
+CON,#var-stat-con + ?{Modifier&#124;0&#125; Constituion Check|
+INT,#var-stat-int + ?{Modifier&#124;0&#125; Intelligence Check|
+WIS,#var-stat-wis + ?{Modifier&#124;0&#125; Wisdom Check|
+CHA,#var-stat-cha + ?{Modifier&#124;0&#125; Charisma Check|
+Athletics,#var-ability-athletics + ?{Modifier&#124;0&#125; Athletics Check|
+Perception,#var-ability-perception + ?{Modifier&#124;0&#125; Perception Check
+}
