@@ -1,10 +1,10 @@
-/roll 1d20 ?{Ability|
-STR,#var-stat-str + ?{Modifier&#124;0&#125; Strength Check|
-DEX,#var-stat-dex + ?{Modifier&#124;0&#125; Dexterity Check|
-CON,#var-stat-con + ?{Modifier&#124;0&#125; Constituion Check|
-INT,#var-stat-int + ?{Modifier&#124;0&#125; Intelligence Check|
-WIS,#var-stat-wis + ?{Modifier&#124;0&#125; Wisdom Check|
-CHA,#var-stat-cha + ?{Modifier&#124;0&#125; Charisma Check|
-Athletics,#var-ability-athletics + ?{Modifier&#124;0&#125; Athletics Check|
-Perception,#var-ability-perception + ?{Modifier&#124;0&#125; Perception Check
+/em rolled [[1d20 ?{Ability|
+STR,#var-stat-str + ?{Additional Modifier&#124;0&#125;]] for Strength |
+DEX,#var-stat-dex + ?{Additional Modifier&#124;0&#125;]] for Dexterity |
+CON,#var-stat-con + ?{Additional Modifier&#124;0&#125;]] for Constituion |
+INT,#var-stat-int + ?{Additional Modifier&#124;0&#125;]] for Intelligence |
+WIS,#var-stat-wis + ?{Additional Modifier&#124;0&#125;]] for Wisdom |
+CHA,#var-stat-cha + ?{Additional Modifier&#124;0&#125;]] for Charisma |
+Athletics,#var-ability-athletics + ?{Additional Modifier&#124;0&#125;]] for Athletics |
+Perception,#var-ability-perception + ?{Additional Modifier&#124;0&#125;]] for Perception
 }
