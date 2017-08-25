@@ -1,1 +1,1 @@
-/roll ?{Roll|1d20} ?{Description|Edmund}
+/roll ?{Roll|1d20} ?{Modifier|0} ?{Description|}
