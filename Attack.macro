@@ -1,1 +1,1 @@
-/roll 1d20+5 Great Sword (Hit)
+/roll #var-weapon1-hit to hit

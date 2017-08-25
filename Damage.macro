@@ -1,1 +1,1 @@
-/roll 2d6+3 slashing damage
+[[ ( #var-weapon1-dmg ) ?{Critical|No,*1]]|Yes,*2]] critical} damage
