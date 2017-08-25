@@ -1,0 +1,8 @@
+/roll 1d20 ?{Ability|
+STR,+1 Strength Roll|
+DEX,+1 Dexterity Roll|
+CON,+1 Constituion Roll|
+INT,+1 Intelligence Roll|
+WIS,+1 Wisdom Roll|
+CHA,+1 Charisma Roll
+}
