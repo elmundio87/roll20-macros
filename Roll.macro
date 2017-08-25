@@ -1,1 +1,1 @@
-/roll ?{Roll|1d20} ?{Modifier|0} ?{Description|}
+/roll ?{Roll|1d20} +?{Modifier|0} ?{Description|}
