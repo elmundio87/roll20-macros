@@ -1,0 +1,1 @@
+/roll 1d20 #var-ability-initiative &{tracker} @{target|token_name} Initiative
