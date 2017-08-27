@@ -1,1 +1,4 @@
-/roll 1d20 #var-weapon1-hit to hit
+/em rolled [[1d20 ?{Ability|
+#var-weapon1-type ,#var-weapon1-hit ]] to hit with #var-weapon1-type  |
+#var-weapon2-type ,#var-weapon2-hit ]] to hit with #var-weapon2-type 
+}
