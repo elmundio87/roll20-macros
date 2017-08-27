@@ -1,1 +1,1 @@
-/roll #var-weapon1-hit to hit
+/roll 1d20 #var-weapon1-hit to hit
