@@ -1,1 +1,1 @@
-[[ ( #var-weapon1-dmg ) ?{Critical|No,*1]]|Yes,*2]] critical} damage
+[[ (?{Weapon|#var-weapon1-type , #var-weapon1-dmg | #var-weapon2-type , #var-weapon2-dmg }) ?{Critical|No,*1]]|Yes,*2]] critical} damage
